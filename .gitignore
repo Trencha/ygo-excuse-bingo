@@ -1,0 +1,11 @@
+# Excel output
+bingo_boards.xlsx
+
+# PDF output
+bingo_boards.pdf
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
