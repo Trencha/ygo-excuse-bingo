@@ -16,8 +16,8 @@ Install the required Python modules:
 
 ```pip install -r requirements.txt```
 
-- openpyxl – for Excel export  
-- reportlab – for PDF export
+- `openpyxl` – for Excel export  
+- `reportlab` – for PDF export
 
 ## Usage
 
