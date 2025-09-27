@@ -23,19 +23,19 @@ Install the required Python modules:
 
 Default: generate 5 PDF boards:
 
-```python bingo_generator.py```
+```python ygo_excuse_bingo.py```
 
 Generate 10 PDF boards:
 
-```python bingo_generator.py --num 10```
+```python ygo_excuse_bingo.py --num 10```
 
 Generate Excel boards only:
 
-```python bingo_generator.py --excel```
+```python ygo_excuse_bingo.py --excel```
 
 Generate both PDF and Excel boards:
 
-```python bingo_generator.py --num 20 --both```
+```python ygo_excuse_bingo.py --num 20 --both```
 
 ## Disclaimer
 
