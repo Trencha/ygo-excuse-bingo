@@ -10,33 +10,37 @@ from reportlab.lib.styles import ParagraphStyle
 # Excuses pool
 excuses = [
     "My hand was unplayable",
-    "I drew my brick card(s)",
+    "I drew my garnet(s)",
     "I only drew non-engine",
     "I only drew engine",
     "You had a custom hand",
+    "You just had everything",
     "I didn’t see any starters",
     "I didn’t see my Side Deck cards",
     "I sided wrong",
     "I always lose against you",
     "The judge call was wrong",
     "I misplayed",
+    "I wasn't playing around that card",
     "I forgot to activate my effect",
     "Dice roll screwed me",
     "Your deck only wins when you go first",
     "You had the 1-of",
     "You drew the out",
+    "Lost to a floodgate",
     "My topdecks were bad",
     "Your topdecks were crazy"
     "My deck isn’t finished",
     "I’m still learning the deck",
     "I was testing tech cards",
     "I didn’t know what your cards did",
+    "I don’t know the matchup",
     "Bad matchup",
     "Time rules screwed me",
     "That’s not how it works on Master Duel",
     "I would’ve won next turn",
-    "I don’t know the matchup",
-    "You’re playing a higher tier deck"
+    "You’re playing a higher tier deck",
+    "My deck autoloses to that card"
 ]
 
 # ---------------- Board Generation ----------------
