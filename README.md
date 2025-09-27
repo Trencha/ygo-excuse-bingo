@@ -14,7 +14,7 @@ This Python script generates printable 5x5 bingo boards for Yu-Gi-Oh! tournament
 
 Install the required Python modules:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 - openpyxl – for Excel export  
 - reportlab – for PDF export
@@ -23,19 +23,19 @@ pip install -r requirements.txt
 
 Default: generate 5 PDF boards:
 
-python bingo_generator.py
+```python bingo_generator.py```
 
 Generate 10 PDF boards:
 
-python bingo_generator.py --num 10
+```python bingo_generator.py --num 10```
 
 Generate Excel boards only:
 
-python bingo_generator.py --excel
+```python bingo_generator.py --excel```
 
 Generate both PDF and Excel boards:
 
-python bingo_generator.py --num 20 --both
+```python bingo_generator.py --num 20 --both```
 
 ## Disclaimer
 

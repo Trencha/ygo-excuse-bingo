@@ -21,7 +21,7 @@ excuses = [
     "I always lose against you",
     "The judge call was wrong",
     "I misplayed",
-    "I wasn't playing around that card",
+    "I wasn’t playing around that card",
     "I forgot to activate my effect",
     "Dice roll screwed me",
     "Your deck only wins when you go first",
